@@ -1,6 +1,7 @@
 def main():
     altura= float ( input("digite a sua altura: "))
-    idade=int (input("digite a sua idade: "))
+    idade=int1
+    (input("digite a sua idade: "))
     isCasado= (input("vc é casado?: "))
     sexo=input("digite seu sexo: ")
     nome=input("digite seu nome: ")
